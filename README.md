@@ -1,7 +1,13 @@
 # Mathematical Symbols Recognition
 
 ## Description
-This project provides a comprehensive solution for the recognition and classification of handwritten mathematical symbols. Leveraging advanced machine learning techniques, it processes input symbols and enables solving mathematical equations.
+This project provides a comprehensive solution for the recognition and classification of handwritten mathematical symbols. Leveraging advanced machine learning techniques, it processes input symbol[...]
+
+---
+
+## Kaggle Notebook
+You can explore and run the project on Kaggle:
+[Handwritten Math Symbol Recognition and Solver](https://www.kaggle.com/code/ahmedsofi/handwritten-math-symbol-recognition-and-solver)
 
 ---
 
