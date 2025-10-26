@@ -1,4 +1,4 @@
-# Mathematical Symbols Recognition
+# Handwritten Math Symbol Recognition and Solver
 
 ## Description
 This project provides a comprehensive solution for the recognition and classification of handwritten mathematical symbols. Leveraging advanced machine learning techniques, it processes input symbol[...]
